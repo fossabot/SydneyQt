@@ -1,6 +1,7 @@
 # SydneyQt
 
 ![SydneyQt](https://socialify.git.ci/juzeon/SydneyQt/image?font=Inter&forks=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9c%2FBing_Fluent_Logo.svg&name=1&owner=1&pattern=Signal&stargazers=1&theme=Light)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuzeon%2FSydneyQt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuzeon%2FSydneyQt?ref=badge_shield)
 
 A cross-platform desktop client for the jailbroken New Bing AI (Sydney ver.) built with Go and [Wails](https://github.com/wailsapp/wails) ([previously](https://github.com/juzeon/SydneyQt/tree/v1) based on Python and Qt).
 
@@ -140,3 +141,6 @@ Here's the TL;DR version:
 <https://github.com/InterestingDarkness/EdgeGPT/tree/sydney>
 
 <https://github.com/Harry-zklcdc/go-proxy-bingai>
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuzeon%2FSydneyQt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuzeon%2FSydneyQt?ref=badge_large)
